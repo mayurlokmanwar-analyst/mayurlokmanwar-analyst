@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,70:2d1b69,100:0d0d0d&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20AWS&descSize=18&descAlignY=62&descColor=a9fef7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,70:2d1b69,100:0d0d0d&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20AWS&descSize=18&descAlignY=62&descColor=7db9e8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=a9fef7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+End-to-End+Data+Pipelines+%F0%9F%9A%80;Power+BI+%7C+SQL+%7C+Python+%7C+Pandas+%F0%9F%90%8D;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;AWS+%7C+Snowflake+%7C+Statistical+Modeling+%E2%9D%84%EF%B8%8F;Everything+is+a+Data+Point+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7db9e8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+End-to-End+Data+Pipelines+%F0%9F%9A%80;Power+BI+%7C+SQL+%7C+Python+%7C+Pandas+%F0%9F%90%8D;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;AWS+%7C+Snowflake+%7C+Statistical+Modeling+%E2%9D%84%EF%B8%8F;Everything+is+a+Data+Point+%F0%9F%93%88" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,13 +21,13 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> *"I believe everything is a data point — even my morning coffee routine has a trend line."*
+> <font color="#7db9e8">*"I believe everything is a data point — even my morning coffee routine has a trend line."*</font>
 
-- 🔧 Building **end-to-end data pipelines** and interactive dashboards using **SQL** and **Power BI**.
-- 🐍 Working on **open-source data analysis** projects and automated reporting scripts using **Python**.
-- ☁️ Mastering **advanced statistical modeling** and cloud-based data warehousing in **AWS / Snowflake**.
-- 📊 Developing **predictive analytics** and data storytelling to drive business decision-making.
-- ⚡ Focused on **SQL query optimization**, data cleaning with **Pandas**, and visualization best practices.
+- 🔧 **End-to-End Pipelines:** Building robust data architectures and interactive dashboards using **SQL** and **Power BI**.
+- 🐍 **Open-Source & Automation:** Developing Python scripts for automated reporting and advanced **Pandas** data manipulation.
+- ☁️ **Cloud Strategy:** Mastering cloud-based data warehousing within the **AWS** and **Snowflake** ecosystems.
+- 📊 **Business Intelligence:** Transforming complex datasets into actionable narratives to drive strategic decision-making.
+- ⚡ **Optimization:** Deeply focused on **SQL query tuning**, statistical modeling, and visualization best practices.
 
 <br clear="right"/>
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurlokmanwar-analyst&bg_color=0d0d0d&color=a9fef7&line=2d1b69&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurlokmanwar-analyst&bg_color=0d0d0d&color=7db9e8&line=2d1b69&point=ffffff&area=true&hide_border=true)
 
 </div>
 
