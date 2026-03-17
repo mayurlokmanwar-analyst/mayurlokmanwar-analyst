@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:00d4ff,100:0d1117&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=18&descAlignY=62&descColor=00d4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a1a,70:ff0000,100:0d1117&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=18&descAlignY=62&descColor=ff0000&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00d4ff&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Statistical+Modeling+%7C+Hypothesis+Testing+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%88;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=ff0000&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Statistical+Modeling+%7C+Hypothesis+Testing+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%88;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%89" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 <img align="right" alt="Data Analysis" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> <font color="#00d4ff">**"I believe everything is a data point — even my morning coffee routine has a trend line."**</font>
+> <font color="#ff0000">**"I believe everything is a data point — even my morning coffee routine has a trend line."**</font>
 
 - 📊 **Exploratory Data Analysis (EDA):** Identifying patterns, anomalies, and trends in complex datasets using **Python** and **Pandas**.
 - 🧪 **Statistical Modeling:** Applying hypothesis testing and regression analysis to validate business assumptions.
@@ -52,31 +52,31 @@
 
 <div align="center">
 
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=mayurlokmanwar-analyst&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=161b22&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" />
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=mayurlokmanwar-analyst&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&border_color=ff0000&text_color=ffffff" />
 
 <br/>
 
-<img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurlokmanwar-analyst&theme=tokyonight&hide_border=false&background=161b22&stroke=00d4ff&ring=00d4ff&fire=00d4ff&border=00d4ff" />
+<img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurlokmanwar-analyst&theme=radical&hide_border=false&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&border=ff0000&dates=ffffff" />
 
 <br/>
 
-<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurlokmanwar-analyst&theme=tokyonight&layout=compact&hide_border=false&bg_color=161b22&title_color=00d4ff&border_color=00d4ff" />
+<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurlokmanwar-analyst&theme=radical&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff0000&border_color=ff0000&text_color=ffffff" />
 
 <br/>
 
-<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurlokmanwar-analyst&theme=tokyonight" />
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurlokmanwar-analyst&theme=tokyonight" />
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurlokmanwar-analyst&theme=tokyonight" />
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurlokmanwar-analyst&theme=tokyonight&utcOffset=5.5" />
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurlokmanwar-analyst&theme=radical&utcOffset=5.5" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:00d4ff,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a1a,70:ff0000,100:0d1117&height=120&section=footer" />
 
 ### 📊 Let's turn raw data into business impact.
 **[ Reach out via LinkedIn or Email above ]**
