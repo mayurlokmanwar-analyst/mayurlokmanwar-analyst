@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=18&descAlignY=62&descColor=a9d6e5&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=18&descAlignY=62&descColor=a9d6e5&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=a9d6e5&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Statistical+Modeling+%7C+Hypothesis+Testing+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%88;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=a9d6e5&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Actionable+Insights+%7C+KPI+Tracking+%F0%9F%93%88;Turning+Raw+Data+into+Business+Impact+%F0%9F%93%8A;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%89" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 > <font color="#a9d6e5">**"I believe everything is a data point — even my morning coffee routine has a trend line."**</font>
 
 - 📊 **Exploratory Data Analysis (EDA):** Identifying patterns, anomalies, and trends in complex datasets using **Python** and **Pandas**.
-- 🧪 **Statistical Modeling:** Applying hypothesis testing and regression analysis to validate business assumptions.
+- 📈 **Business Intelligence:** Developing automated tracking systems for key performance indicators (KPIs) to monitor business health.
 - ⚡ **Data Visualization:** Crafting high-impact, interactive dashboards in **Power BI** to tell compelling data stories.
 - 🐍 **Data Manipulation:** Cleaning and transforming messy, unstructured data into analysis-ready formats.
 - 🔍 **SQL Analytics:** Advanced query optimization to extract deep business intelligence from relational databases.
