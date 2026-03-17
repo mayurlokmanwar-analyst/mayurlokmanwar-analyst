@@ -13,13 +13,15 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
 <img align="right" alt="Data Analysis" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> <font color="#a9d6e5">**"I believe everything is a data point — even my morning coffee routine has a trend line."**</font>
+> <font color="#a9d6e5">**"Data is just numbers until you find the story. I specialize in translating complex datasets into clear, actionable business strategies."**</font>
 
 - 📊 **Exploratory Data Analysis (EDA):** Identifying patterns, anomalies, and trends in complex datasets using **Python** and **Pandas**.
 - 📈 **Business Intelligence:** Developing automated tracking systems for key performance indicators (KPIs) to monitor business health.
@@ -35,27 +37,27 @@
 
 <div align="center">
 
-### 🏛️ Data Foundation & Querying
-*Relational Databases & Logic*
+### 🛠️ Core Analytical Foundations
+*The primary tools I use to query, calculate, and structure business logic.*
 <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <br/>
 
-### 🐍 Processing & Engineering
-*Data Wrangling & Statistical Computation*
+### 🐍 Data Engineering & Wrangling (Python)
+*Libraries utilized for deep-dive statistical analysis and data cleaning.*
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
-### 🎨 Intelligence & Visualization
-*Insight Delivery & Data Storytelling*
+### 🎨 Business Intelligence & Visualization
+*Transforming raw metrics into visual stories and executive dashboards.*
 <br/>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -64,9 +66,11 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
-## 📊 Analytics Dashboards & Stats
+## 📊 Analytics Performance & Insights
 
 <div align="center">
 
@@ -86,9 +90,19 @@
 
 <br/>
 
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurlokmanwar-analyst&theme=react" />
+
+<br/>
+
+<img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurlokmanwar-analyst&theme=react" />
+
+<br/>
+
 <img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurlokmanwar-analyst&theme=react&utcOffset=5.5" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
