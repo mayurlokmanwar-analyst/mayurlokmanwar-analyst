@@ -25,7 +25,7 @@
 
 - 🔧 **End-to-End Pipelines:** Building robust data architectures and interactive dashboards using **SQL** and **Power BI**.
 - 🐍 **Open-Source & Automation:** Developing Python scripts for automated reporting and advanced **Pandas** data manipulation.
-- ☁️ **Cloud Strategy:** Mastering cloud-based data warehousing within the **AWS** and **Snowflake** ecosystems.
+- ☁️ **Cloud Data Warehousing:** Architecting scalable storage solutions to centralize disparate sources for unified business reporting.
 - 📊 **Business Intelligence:** Transforming complex datasets into actionable narratives to drive strategic decision-making.
 - ⚡ **Optimization:** Deeply focused on **SQL query tuning**, statistical modeling, and visualization best practices.
 
