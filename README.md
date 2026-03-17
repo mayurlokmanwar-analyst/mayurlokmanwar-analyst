@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,70:2d1b69,100:0d0d0d&height=230&section=header&text=Mayuresh%20Lokmanwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=18&descAlignY=62&descColor=7db9e8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7db9e8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Statistical+Modeling+%7C+Hypothesis+Testing+%F0%9F%%8A;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%88;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7db9e8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Exploratory+Data+Analysis+%F0%9F%94%8D;Statistical+Modeling+%7C+Hypothesis+Testing+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%88;Data+Storytelling+%7C+Power+BI+%7C+SQL+%F0%9F%9A%80;Everything+is+a+Data+Point+%F0%9F%93%89" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Science" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Data Analysis" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 > <font color="#7db9e8">*"I believe everything is a data point — even my morning coffee routine has a trend line."*</font>
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
