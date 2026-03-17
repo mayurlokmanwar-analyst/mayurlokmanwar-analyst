@@ -1,5 +1,5 @@
 # 💫 About Me:
-● Building end-to-end data pipelines and interactive dashboards using SQL and Power BI.<br>● Open-source data analysis projects and automated reporting scripts using Python.<br>● Mastering advanced statistical modeling and cloud-based data warehousing in AWS/Snowflake.<br>● Predictive analytics and advanced data storytelling to drive business decision-making.<br>● SQL query optimization, data cleaning with Pandas, and visualization best practices.<br>● I believe everything is a data point—even my morning coffee routine has a trend line.<br>● https://www.linkedin.com/in/mayuresh-lokamanwar-668b56297/
+● Building end-to-end data pipelines and interactive dashboards using SQL and Power BI.<br>● Open-source data analysis projects and automated reporting scripts using Python.<br>● Mastering advanced statistical modeling and cloud-based data warehousing in AWS/Snowflake.<br>● Predictive analytics and advanced data storytelling to drive business decision-making.<br>● SQL query optimization, data cleaning with Pandas, and visualization best practices.<br>● I believe everything is a data point—even my morning coffee routine has a trend line.<br>● https://www.linkedin.com/in/mayuresh07/
 
 
 ## 🌐 Socials:
