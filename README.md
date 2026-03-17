@@ -52,31 +52,31 @@
 
 <div align="center">
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=mayurlokmanwar-analyst&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="460px" src="https://github-readme-stats.vercel.app/api?username=mayurlokmanwar-analyst&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=7db9e8&icon_color=7db9e8" />
 
 <br/>
 
-<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurlokmanwar-analyst&theme=radical&hide_border=true" />
+<img width="460px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurlokmanwar-analyst&theme=radical&hide_border=true&background=0d0d0d&stroke=7db9e8&ring=7db9e8&fire=7db9e8" />
 
 <br/>
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurlokmanwar-analyst&theme=radical&layout=compact&hide_border=true" />
+<img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurlokmanwar-analyst&theme=radical&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=7db9e8" />
 
 <br/>
 
-<img width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurlokmanwar-analyst&theme=radical" />
+<img width="460px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurlokmanwar-analyst&theme=radical" />
+<img width="460px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurlokmanwar-analyst&theme=radical" />
+<img width="460px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurlokmanwar-analyst&theme=radical" />
 
 <br/>
 
-<img width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurlokmanwar-analyst&theme=radical&utcOffset=5.5" />
+<img width="460px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurlokmanwar-analyst&theme=radical&utcOffset=5.5" />
 
 </div>
 
