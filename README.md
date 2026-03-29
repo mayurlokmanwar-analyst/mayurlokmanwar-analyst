@@ -23,7 +23,7 @@
 
 > <font color="#a9d6e5">**"Translating complex datasets into actionable business narratives."**</font>
 
-- 📊 **Data Analysis (EDA):** Identifying patterns, anomalies, and trends in complex datasets using **Python** and **Pandas**.
+- 📊 **Exploratory Data Analysis (EDA):** Identifying patterns, anomalies, and trends in complex datasets using **Python** and **Pandas**.
 - 📈 **Business Intelligence:** Developing automated tracking systems for key performance indicators (KPIs) to monitor business health.
 - ⚡ **Data Visualization:** Crafting high-impact, interactive dashboards in **Power BI** to tell compelling data stories.
 - 🐍 **Data Manipulation:** Cleaning and transforming messy, unstructured data into analysis-ready formats.
